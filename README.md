@@ -26,7 +26,7 @@
  3. Many-to-One: one entity set can take part only once in the relationship set and entities in other entity sets can take part more than once 
 4. Many-to-Many: When entitiesq can take part more than once
 
-# Participation ConstrainT: 
+# Participation Constraint: 
 1. Total Participation – Each entity in must participate in the relationship.
 2. Partial Participation – The entity may or may NOT participate in the relationship.
 
