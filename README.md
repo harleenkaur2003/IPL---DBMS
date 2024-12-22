@@ -30,6 +30,9 @@
 1. Total Participation – Each entity in must participate in the relationship.
 2. Partial Participation – The entity may or may NOT participate in the relationship.
 
-# Aggregation : is an abstraction through which we can represent relationships as higher-level entity sets. 
-# Specialization : It is a top-down approach where the higher-level entity is specialized into two or more lower-level entities. 
-# Generalization : It is a bottom-up approach in which two or more entities can be generalized to a higher-level entity if they have some attributes in common.
+# Aggregation : 
+is an abstraction through which we can represent relationships as higher-level entity sets. 
+# Specialization : 
+It is a top-down approach where the higher-level entity is specialized into two or more lower-level entities. 
+# Generalization : 
+It is a bottom-up approach in which two or more entities can be generalized to a higher-level entity if they have some attributes in common.
